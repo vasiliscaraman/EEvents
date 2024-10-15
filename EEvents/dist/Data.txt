@@ -1,0 +1,9 @@
+admin:admin:muzica:pictura:sport:teatru
+andrei.i@a.a:Andrei123:muzica::: 
+alexandru.u@a.a:Alexandru123:::sport:teatru
+isabela.a@a.a:Isabela123:muzica::sport: 
+mihai.i@a.a:Mihai123:muzica::: 
+bogdan.n@a.a:Bogdan123::pictura:sport: 
+iulian.n@a.a:Iulian123:muzica::sport:teatru
+maria.a@a.a:Maria123:muzica:pictura::teatru
+cosmin@stud.ase.ro:Cosmin11:muzica:pictura:sport:teatru

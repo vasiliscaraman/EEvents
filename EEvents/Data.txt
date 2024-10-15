@@ -1,0 +1,5 @@
+admin:admin:muzica:pictura:sport:teatru
+andrei.i@a.a:Andrei123::pictura:: 
+alexandru.u@a.a:Alexandru123:::sport:teatru
+isabela.a@a.a:Isabela123:muzica::sport: 
+mihai.i@a.a:Mihai123:muzica::: 

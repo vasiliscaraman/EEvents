@@ -1,0 +1,8 @@
+Niciodata Mare:muzica:200:25-06-2021
+Nespus:muzica:213:14-08-2021
+Micii artisti:pictura:20:10-09-2021
+Expozitii toamna:pictura:59:15-09-2021
+Ziua sportului:sport:0:29-06-2021
+Hamlet:teatru:115:01-01-2022
+Pescarusul:teatru:38:20-11-2021
+maine:muzica:12:25-04-2021
